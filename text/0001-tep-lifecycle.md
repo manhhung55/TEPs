@@ -1,4 +1,4 @@
-- **TEP**: [1](https://github.com/ton-blockchain/TEPs/pull/1)
+- **TEP**: [1](https://github.com/ton-ockchain/TEPs/pull/1)
 - **title**: TEP Lifecycle
 - **status**: Active
 - **type**: Meta
