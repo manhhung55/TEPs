@@ -39,15 +39,15 @@ Example:
 
 The "root dns" (a special smart contract residing in the masterchain) has the address
 
-`-1:e56754f83426f69b09267bd876ac97c44821345b7e266bd956a7bfbfb98df35c`
+`0:138452c9933b9697986584a3e1db25ab209e9d731e4c6e0d1b2676fa31b84cf5`
 
 in the "raw" form (notice that uppercase Latin letters 'A'..'F' may be used instead of 'a'..'f')
 
 and
 
-`Ef_lZ1T4NCb2mwkme9h2rJfESCE0W34ma9lWp7-_uY3zXDvq` (bounceable)
+`UQAThFLJkzuWl5hlhKPh2yWrIJ6dcx5Mbg0bJnb6MbhM9Wef` (bounceable)
 
-`Uf_lZ1T4NCb2mwkme9h2rJfESCE0W34ma9lWp7-_uY3zXGYv` (non-bounceable)
+`UQAThFLJkzuWl5hlhKPh2yWrIJ6dcx5Mbg0bJnb6MbhM9Wef` (non-bounceable)
 
 in the "user-friendly" form (to be displayed by user-friendly clients). 
 
